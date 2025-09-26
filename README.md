@@ -6,7 +6,7 @@
 
 ## Descrição
 
-Site institucional desenvolvido em **WordPress** e hospedado na Hostinger. Este repositório funciona como uma **vitrine** do projeto: traz descrições técnicas, screenshots, tecnologias usadas, responsabilidades e instruções úteis para quem quiser avaliar o trabalho.
+Site institucional desenvolvido em **WordPress** e hospedado na Hostinger. 
 
 ---
 
