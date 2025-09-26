@@ -1,6 +1,6 @@
 # Projeto: Site (Hospedado na Hostinger)
 
-**Live demo:** [SFIT CAPS](https://sfitgold.com)
+**Live demo:** [SFIT CAPS](https://sfitgold.com.br)
 
 ---
 
